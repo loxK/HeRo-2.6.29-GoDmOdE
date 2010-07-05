@@ -919,7 +919,7 @@ static struct msm_acpu_clock_platform_data heroc_clock_data = {
 static unsigned heroc_perf_acpu_table[] = {
 	245760000,
 	480000000,
-	528000000,
+	710400000,
 };
 
 static struct perflock_platform_data heroc_perflock_data = {
